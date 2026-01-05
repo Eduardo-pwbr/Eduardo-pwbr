@@ -23,14 +23,14 @@
   <img alt="Edu-Next" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
 </div>
 
-
-
-
- ### 
 <div style="display: inline_block"><br>
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-pwbr&show_icons=true&theme=tokyonight"/>
   <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-pwbr&layout=compact&theme=tokyonight"/>
 </div>
+
+
+
+
 
 
 
