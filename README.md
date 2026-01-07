@@ -25,7 +25,8 @@
 
 <div style="display: inline_block"><br>
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-pwbr&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
-  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-pwbr&layout=compact&theme=tokyonight&langs_count=10"/>
+  <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-pwbr&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800
+"/>
 </div>
 
 
