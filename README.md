@@ -24,9 +24,10 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-pwbr&show_icons=true&theme=tokyonight"/>
-  <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-pwbr&layout=compact&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo-pwbr&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
+  <img width="51%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo-pwbr&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
 
 
 
