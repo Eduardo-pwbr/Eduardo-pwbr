@@ -45,9 +45,9 @@
 </div>
 
 ---
-<div>
+<>
 💻 Desenvolvedor Front-End, focado no desenvolvimento de aplicações web modernas, responsivas e funcionais.
-</div>
+</>
 
 
 
