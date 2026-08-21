@@ -50,9 +50,9 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Eduardo-pwbr&show_icons=true&theme=tokyonight&cache_seconds=3600">
+## 📊 GitHub Stats
 
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-pwbr&layout=compact&theme=tokyonight&langs_count=10">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-pwbr&show_icons=true&theme=tokyonight)
 
 </div>
 
