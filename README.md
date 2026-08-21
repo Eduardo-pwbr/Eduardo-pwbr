@@ -46,9 +46,9 @@
 
 ---
 <div>
-  <h1>
+  <p>
 💻 Desenvolvedor Front-End, focado no desenvolvimento de aplicações web modernas, responsivas e funcionais.
-  </h1>
+  </p>
 <div/>
 
 
