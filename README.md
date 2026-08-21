@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Eduardo França
+# Olá! Eu sou o Eduardo França👋 
 
 ### Desenvolvedor Front-End
 
@@ -45,7 +45,7 @@
 </div>
 
 ---
-
+## 💻 Desenvolvedor Front-End em formação, focado no desenvolvimento de aplicações web modernas, responsivas e funcionais.
 
 
 
