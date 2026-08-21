@@ -45,7 +45,7 @@
 </div>
 
 ---
-## 💻 Desenvolvedor Front-End em formação, focado no desenvolvimento de aplicações web modernas, responsivas e funcionais.
+## 💻 Desenvolvedor Front-End, focado no desenvolvimento de aplicações web modernas, responsivas e funcionais.
 
 
 
